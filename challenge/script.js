@@ -31,6 +31,7 @@ for(let i = 0 ; i< btn.length; i++){
 
 // ----- discount calculation -----
 
+
 var totalCost;
 var discount;
 
