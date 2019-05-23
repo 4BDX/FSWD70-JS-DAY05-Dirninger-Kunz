@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,4DAA4D;EAC3D,MAAM;IACL,KAAK,EAAE,GAAG;IACV,MAAM,EAAE,MAAM",
+"mappings": "AAAA,4DAA4D;EAC3D,MAAM;IACL,OAAO,EAAE,IAAI;IACb,cAAc,EAAE,MAAM;IACtB,eAAe,EAAE,MAAM;IACvB,WAAW,EAAE,MAAM;IACnB,KAAK,EAAE,GAAG;IACV,MAAM,EAAE,GAAG;IACX,MAAM,EAAE,GAAG",
 "sources": ["viewports.sass"],
 "names": [],
 "file": "viewports.css"

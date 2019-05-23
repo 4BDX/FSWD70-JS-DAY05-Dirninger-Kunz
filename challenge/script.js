@@ -4,7 +4,7 @@
 
 // ----- discount calculation -----
 
-var totalCost = prompt("Preis");
+var totalCost;// = prompt("Preis");
 var discount;
 
 if (totalCost < 40) {
