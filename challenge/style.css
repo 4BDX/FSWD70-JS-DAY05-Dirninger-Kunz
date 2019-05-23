@@ -73,11 +73,12 @@ main {
 #products {
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
 	justify-content: space-around;
 	width: 80%;	
 }
 
-#products div {
+.items {
 	width: 10%;
 }
 
