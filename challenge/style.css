@@ -61,3 +61,26 @@ a {
 a:hover {
 		font-weight: bold
 }
+
+main {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+
+}
+
+#products {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 80%;	
+}
+
+#products div {
+	width: 10%;
+}
+
+#products img {
+	max-width: 100%;
+}
