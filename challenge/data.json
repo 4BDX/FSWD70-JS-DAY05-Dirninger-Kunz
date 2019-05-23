@@ -27,5 +27,11 @@ var shoes = [
 	"name"	: "Stöckelschuhe",
 	"size"	: 37,
 	"price"	: 127.85,
-	"pairs"	: 160982}
+	"pairs"	: 160982},
+
+	{"id"	: 06,
+	"name"	: "Spezialschuh",
+	"size"	: 43,
+	"price"	: 97.98,
+	"pairs"	: 631}
 ];
