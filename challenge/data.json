@@ -1,0 +1,31 @@
+var shoes = [
+	{"id"	: 01,
+	"name"	: "Sportschuhe",
+	"size"	: 42,
+	"price"	: 59.98,
+	"pairs"	: 342},
+
+	{"id"	: 02,
+	"name"	: "Flipflops",
+	"size"	: 36,
+	"price"	: 23.43,
+	"pairs"	: 1024},
+
+	{"id"	: 03,
+	"name"	: "Stifletten",
+	"size"	: 38,
+	"price"	: 117.78,
+	"pairs"	: 23},
+
+	{"id"	: 04,
+	"name"	: "Sneakers",
+	"size"	: 48,
+	"price"	: 135.90,
+	"pairs"	: 776},
+
+	{"id"	: 05,
+	"name"	: "Stöckelschuhe",
+	"size"	: 37,
+	"price"	: 127.85,
+	"pairs"	: 160982}
+];
